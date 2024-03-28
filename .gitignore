@@ -1,0 +1,9 @@
+.idea/
+Sensor.iml
+Observer.iml
+Processor.iml
+Main.iml
+out/
+!**/src/main/**/out/
+!**/src/test/**/out/
+
